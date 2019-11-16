@@ -1,0 +1,47 @@
+body {
+    background-image: url("grassland.jpeg");
+    background-color: #cccccc;
+    color: forestgreen;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+   }
+#maincontainer {
+    border: 5px orangered solid;
+    width: 322px;
+    margin: 50px;
+    margin-top: 50px;
+}
+#animal {
+    text-align: center; 
+    border: 1px forestgreen solid;
+    margin-right: 10px;
+    margin-left: 10px;
+    background-color: #ca7d09
+}
+#container1 {
+    width: 300px;
+    height: 200px;
+    border: 1px forestgreen solid;
+    margin: 11px
+}
+#container2 {
+    width: 300px;
+    border: 1px forestgreen solid;
+    margin-left: 11px;
+    margin-bottom: 11px;
+    background-image: url("savannah.jpg");
+}
+#fact {
+    font-style: italic;
+    padding:11px;
+}
+span {
+    font-weight:bold;
+}
+#nopoints {
+    padding: 0;
+    list-style-type: none;
+    text-indent: 11px;
+}
+#info {
+    padding:11px;
+}
